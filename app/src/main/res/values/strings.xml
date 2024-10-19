@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ActCardView</string>
+    <string name="welcome_message">Bienvenido a ActCardView</string>
+    <string name="description_text">Esta aplicación muestra una lista de instituciones.</string>
+    <string name="icon_description">descripcion</string>
+
+    <string-array name="institution_names">
+        <item>Universidad de la Serena</item>
+        <item>Santo Tomás</item>
+        <item>Inacap</item>
+        <item>Ip Chile</item>
+        <item>Ucn</item>
+    </string-array>
+</resources>
